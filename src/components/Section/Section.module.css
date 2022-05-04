@@ -1,0 +1,15 @@
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 1.5;
+  color: royalblue;
+  margin-bottom: 30px;
+}
